@@ -116,7 +116,7 @@ To improve accuracy, retrain the model with a larger and more recent dataset and
 """)
 
 # ---- SIDEBAR ----
-st.sidebar.image("your_logo.png", width=120)
+
 st.sidebar.header("📘 About")
 st.sidebar.markdown("""
 This app demonstrates **time series forecasting** using an **LSTM** neural network.  
