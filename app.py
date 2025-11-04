@@ -13,7 +13,7 @@ The model was trained on historical stock data and specifically focuses on the '
 """)
 
 # Load the trained model
-model = load_model(r"D:\My project\Yahoo_stock\lstm_model.h5", compile=False)
+model = load_model(r"lstm_model.h5", compile=False)
 model.compile(optimizer='adam', loss='mse', metrics=['mae'])
 
 # Define the sequence length (should match the training sequence length)
