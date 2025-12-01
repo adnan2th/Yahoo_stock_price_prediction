@@ -50,10 +50,12 @@ You can update this section with the model you actually trained.
 - **Pandas**
 - **Scikit-Learn**
 - **TensorFlow / Keras** (if using LSTM)
+- **Matplotlib / Seaborn**
+- **Jupyter Notebook**
+
+
 
 📈 Results
 MSE : 0.0003083672294658811
 MAE : 0.014182060817946894
 R2  : 0.9569219431930995
-- **Matplotlib / Seaborn**
-- **Jupyter Notebook**
